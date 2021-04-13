@@ -30,12 +30,6 @@ bzip2
 ca-certificates
 cachefilesd
 c-ares
-centos-indexhtml
-centos-linux-release
-centos-logos
-centos-obsolete-packages
-centos-release
-centos-repos
 checkpolicy
 chkconfig
 chrony
