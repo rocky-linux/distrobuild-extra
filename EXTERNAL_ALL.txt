@@ -24,3 +24,16 @@ perl-Expect
 perl-Devel-Leak
 perl-BSD-Resource
 perl-Test-Needs
+ttfautohint
+perl-Font-TTF
+fonttools
+kyua
+lutok
+atf
+python3-mallard-ducktype
+apiguardian
+byte-buddy
+junit5
+maven-mapping
+opentest4j
+univocity-parsers

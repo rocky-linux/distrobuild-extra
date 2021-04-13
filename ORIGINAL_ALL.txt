@@ -1,0 +1,6 @@
+buildsys-macros-el8
+rocky-bookmarks
+rocky-indexhtml
+rocky-logos
+rocky-obsolete-packages
+rocky-release
