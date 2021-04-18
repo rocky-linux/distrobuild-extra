@@ -103,6 +103,8 @@ perl-File-LibMagic
 perl-File-MMagic
 perl-File-ShareDir-Install
 perl-File-Slurp-Tiny
+perl-File-Slurper
+perl-Font-AFM
 perl-Font-TTF
 perl-HTML-Format
 perl-IO-CaptureOutput
