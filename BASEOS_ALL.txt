@@ -405,7 +405,6 @@ python-decorator
 python-dmidecode
 python-dns
 python-ethtool
-python-hawkey
 python-idna
 python-iniparse
 python-inotify
