@@ -91,6 +91,7 @@ perl-DateTime-Format-ICal
 perl-DateTime-Set
 perl-Devel-Hide
 perl-Devel-Leak
+perl-Encode-EUCJPASCII
 perl-Encode-IMAPUTF7
 perl-Expect
 perl-ExtUtils-Config
@@ -103,6 +104,7 @@ perl-File-MMagic
 perl-File-ShareDir-Install
 perl-File-Slurp-Tiny
 perl-Font-TTF
+perl-HTML-Format
 perl-IO-CaptureOutput
 perl-List-Pairwise
 perl-Mail-IMAPTalk
@@ -128,6 +130,7 @@ perl-Net-DNS-Resolver-Programmable
 perl-Net-IDN-Encode
 perl-Net-LibIDN
 perl-Object-Deadly
+perl-Parallel-ForkManager
 perl-Perl-Version
 perl-PerlIO-gzip
 perl-Pod-Coverage-TrustPod
