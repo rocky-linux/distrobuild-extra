@@ -32,6 +32,7 @@ felix-gogo-shell
 felix-scr
 fonttools
 gcab
+ghc
 ghc-Glob
 ghc-HTTP
 ghc-HUnit
