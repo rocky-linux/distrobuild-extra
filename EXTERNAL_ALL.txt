@@ -1,7 +1,9 @@
 PEGTL
 SFML
+alex
 apache-commons-el
 apiguardian
+argparse-manpage
 atf
 auto
 base64coder
