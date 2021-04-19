@@ -225,11 +225,14 @@ galera
 gavl
 gc
 gcc-toolset-10
+gcc-toolset-10-annobin
 gcc-toolset-10-binutils
+gcc-toolset-10-dwz
 gcc-toolset-10-dyninst
 gcc-toolset-10-elfutils
 gcc-toolset-10-gcc
 gcc-toolset-10-gdb
+gcc-toolset-10-ltrace
 gcc-toolset-10-make
 gcc-toolset-10-strace
 gcc-toolset-10-systemtap
