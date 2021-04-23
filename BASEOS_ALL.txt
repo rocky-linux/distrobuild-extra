@@ -129,6 +129,7 @@ hwdata
 hwloc
 icu
 ima-evm-utils
+infiniband-diags
 initscripts
 intel-cmt-cat
 iotop

@@ -82,6 +82,7 @@ byteman
 c2esp
 cairo
 cairomm
+cargo-vendor
 cdi-api
 cdparanoia
 cdrdao
@@ -987,6 +988,8 @@ nspr
 nss
 nss-altfiles
 nss-pam-ldapd
+nss-softokn
+nss-util
 nss_wrapper
 ntpstat
 numpy
