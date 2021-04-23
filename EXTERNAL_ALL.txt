@@ -43,7 +43,7 @@ felix-gogo-runtime
 felix-gogo-shell
 felix-scr
 festival
-flatpag-xdg-utils
+flatpak-xdg-utils
 fonttools
 fstrm
 gcab
