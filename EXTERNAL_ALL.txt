@@ -206,6 +206,7 @@ javapackages-tools
 javapoet
 jboss-logmanager
 jboss-modules
+jctools
 jetty
 jing-trang
 json_simple
@@ -281,9 +282,13 @@ mingw-w64-tools
 mingw-wavpack
 mockito
 modulemd-tools
+mongo-java-driver
+mongo-tools
+mongodb
 msitools
 msv
 mysql-selinux
+netty
 nispor
 nvml
 objectweb-asm
@@ -415,6 +420,7 @@ python-blinker
 python-boto3
 python-botocore
 python-bottle
+python-cheetah
 python-cryptography-vectors
 python-distutils-extra
 python-docutils
@@ -427,6 +433,7 @@ python-nose-testconfig
 python-oauth2client
 python-pluggy
 python-pretend
+python-pymongo
 python-ruamel-yaml
 python-s3transfer
 python-sphinx
@@ -457,6 +464,7 @@ screen
 servicelog
 shrinkwrap
 snakeyaml
+snappy-java
 spice-qxl-wddm
 spirv-headers
 stalld
@@ -477,3 +485,4 @@ xml-maven-plugin
 xml-stylebook
 xmlgraphics-commons
 xpp3
+yaml-cpp
