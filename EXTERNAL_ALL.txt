@@ -185,6 +185,7 @@ ghc-yaml
 ghc-zip-archive
 ghc-zlib
 glassfish-jax-rs-api
+glassfish-jsp
 glibc32
 glslang
 gnome-devel-docs
