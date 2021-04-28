@@ -1,4 +1,7 @@
 buildsys-macros-el8
+perl-Spiffy
+perl-Test-Base
+perl-Test-YAML
 rocky-bookmarks
 rocky-indexhtml
 rocky-logos
