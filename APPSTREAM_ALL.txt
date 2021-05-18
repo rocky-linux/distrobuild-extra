@@ -45,6 +45,7 @@ apache-commons-lang
 apache-commons-lang3
 apache-commons-logging
 apache-commons-net
+apiguardian
 appstream-data
 apr
 apr-util
@@ -65,8 +66,10 @@ babeltrace
 babl
 bacula
 baobab
+batik
 bcc
 bea-stax
+beignet
 bind-dyndb-ldap
 bison
 bitmap-fonts
@@ -120,6 +123,7 @@ colord-gtk
 compat-exiv2-026
 compat-libgfortran-48
 compat-libtiff3
+compat-locales-sap
 compat-openssl10
 compiler-rt
 conmon
@@ -175,6 +179,9 @@ dtc
 dvd+rw-tools
 dwz
 dyninst
+eclipse
+eclipse-ecf
+eclipse-emf
 edk2
 ee4j-parent
 efi-rpm-macros
@@ -196,6 +203,10 @@ exiv2
 fabtests
 fapolicyd
 farstream02
+felix-gogo-command
+felix-gogo-runtime
+felix-gogo-shell
+felix-scr
 fence-agents
 fence-virt
 fetchmail
@@ -206,6 +217,7 @@ firefox
 flac
 flatpak
 flatpak-builder
+flatpak-xdg-utils
 flex
 fltk
 flute
@@ -220,6 +232,7 @@ freerdp
 frei0r-plugins
 fribidi
 frr
+fstrm
 ftp
 fuse-overlayfs
 galera
@@ -276,8 +289,10 @@ gl-manpages
 glade
 glassfish-el
 glassfish-fastinfoset
+glassfish-jax-rs-api
 glassfish-jaxb
 glassfish-jaxb-api
+glassfish-jsp
 glibmm24
 gnome-abrt
 gnome-autoar
@@ -321,6 +336,7 @@ gom
 google-crosextra-caladea-fonts
 google-crosextra-carlito-fonts
 google-droid-fonts
+google-gson
 google-guice
 google-noto-cjk-fonts
 google-noto-emoji-fonts
@@ -560,10 +576,12 @@ ibus-table-chinese
 ibus-typing-booster
 icedtea-web
 icoutils
+icu4j
 iio-sensor-proxy
 ilmbase
 initial-setup
 inkscape
+insights-client
 intltool
 ipa
 ipa-healthcheck
@@ -602,6 +620,7 @@ jboss-jaxrs-2.0-api
 jboss-logging
 jboss-logging-tools
 jdeparser
+jetty
 jline
 jmc
 jmc-core
@@ -615,6 +634,7 @@ jsoup
 jsr-305
 jss
 julietaula-montserrat-fonts
+junit5
 kacst-fonts
 kdump-anaconda-addon
 keepalived
@@ -696,6 +716,7 @@ libdvdread
 libdwarf
 libeasyfc
 libecap
+libecpg
 libepoxy
 libepubgen
 libestr
@@ -767,6 +788,7 @@ libnet
 libnice
 libnma
 libnotify
+libnumbertext
 liboauth
 libodfgen
 libogg
@@ -808,6 +830,7 @@ libsndfile
 libspectre
 libspiro
 libsrtp
+libssh2
 libstaroffice
 libtar
 libthai
@@ -839,6 +862,7 @@ libwnck3
 libwpd
 libwpg
 libwps
+libxcam
 libxcb
 libxkbcommon
 libxkbfile
@@ -879,7 +903,9 @@ lua-expat
 lua-json
 lua-lpeg
 lua-socket
+lucene
 luksmeta
+lz4-java
 m17n-db
 m17n-lib
 madan-fonts
@@ -914,6 +940,7 @@ mesa-demos
 mesa-libGLU
 mesa-libGLw
 metacity
+micropipenv
 mod_auth_gssapi
 mod_auth_mellon
 mod_auth_openidc
@@ -935,6 +962,7 @@ mpich
 mpitests
 mrtg
 mstflint
+msv
 mt-st
 mtdev
 mtx
@@ -944,6 +972,7 @@ mutt
 mutter
 mvapich2
 mysql
+mysql-selinux
 mythes
 mythes-bg
 mythes-ca
@@ -979,6 +1008,7 @@ netcf
 netpbm
 network-manager-applet
 nginx
+nispor
 nmap
 nmstate
 nodejs
@@ -993,6 +1023,7 @@ nss-util
 nss_wrapper
 ntpstat
 numpy
+nvml
 ocaml-srpm-macros
 oci-seccomp-bpf-hook
 oci-systemd-hook
@@ -1017,6 +1048,7 @@ openoffice-lv
 openoffice.org-dict-cs_CZ
 openscap
 openslp
+opentest4j
 openwsman
 opus
 orc
@@ -1266,6 +1298,7 @@ pipewire
 pipewire0.2
 pixman
 pki-core
+pki-servlet-container
 pki-servlet-engine
 plexus-cipher
 plexus-classworlds
@@ -1299,6 +1332,7 @@ pycairo
 pygobject2
 pygtk2
 pykickstart
+pyodbc
 pyparted
 pyserial
 pytest
@@ -1402,6 +1436,7 @@ python-sqlalchemy
 python-suds
 python-sushy
 python-systemd
+python-toml
 python-urllib3
 python-virtualenv
 python-webencodings
@@ -1413,13 +1448,18 @@ python2-pip
 python2-pycairo
 python2-rpm-macros
 python2-setuptools
+python2-six
 python36
 python38
+python39
 python3x-pip
 python3x-setuptools
+python3x-six
 pytz
 pyusb
 pyxdg
+qatengine
+qatlib
 qemu-kvm
 qgnomeplatform
 qpdf
@@ -1465,8 +1505,11 @@ redhat-support-tool
 redis
 redland
 relaxngDatatype
+relaxngcc
 rest
 resteasy
+rhc
+rhc-worker-playbook
 rhel-system-roles
 rhn-client-tools
 rhn-custom-info
@@ -1481,7 +1524,9 @@ rpm-ostree
 rpmdevtools
 rpmlint
 rrdtool
+rshim
 rsyslog
+rt-tests
 rtkit
 ruby
 rubygem-abrt
@@ -1501,6 +1546,7 @@ sane-backends
 sane-frontends
 sanlock
 sassist
+sat4j
 satyr
 sbc
 sbd
@@ -1566,6 +1612,7 @@ spirv-tools
 splix
 squid
 sscg
+stalld
 startup-notification
 stax-ex
 stix-fonts
@@ -1609,6 +1656,7 @@ toolbox
 torque
 totem
 totem-pl-parser
+tracer
 tracker
 tracker-miners
 ttmkfdir
@@ -1620,6 +1668,7 @@ udisks2
 unbound
 unicode-ucd
 unit-api
+univocity-parsers
 unixODBC
 uom-lib
 uom-parent
@@ -1683,6 +1732,8 @@ xinetd
 xkeyboard-config
 xml-commons-apis
 xml-commons-resolver
+xml-stylebook
+xmlgraphics-commons
 xmlsec1
 xmlstreambuffer
 xmlto

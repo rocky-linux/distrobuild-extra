@@ -236,6 +236,7 @@ mingw-pcre
 mingw-pixman
 mingw-pkg-config
 mingw-readline
+mingw-spice-vdagent
 mingw-sqlite
 mingw-termcap
 mingw-win-iconv
@@ -429,12 +430,15 @@ po4a
 powermock
 pps-tools
 pstoedit
+py3c
+pybind11
 pytest
 python-atomicwrites
 python-attrs
 python-httplib2
 python-hypothesis
 python-imagesize
+python-iniconfig
 python-iso8601
 python-lesscpy
 python-markdown
