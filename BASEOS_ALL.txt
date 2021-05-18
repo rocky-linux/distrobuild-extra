@@ -456,9 +456,6 @@ rasdaemon
 rdma-core
 readline
 realmd
-redhat-indexhtml
-redhat-logos
-redhat-release
 rng-tools
 rootfiles
 rpcbind
