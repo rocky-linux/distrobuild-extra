@@ -288,6 +288,7 @@ mongo-tools
 mongodb
 msitools
 msv
+mvel
 mysql-selinux
 netty
 nispor
