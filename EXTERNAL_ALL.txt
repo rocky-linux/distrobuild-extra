@@ -453,6 +453,7 @@ relaxngcc
 replacer
 resource-agents
 rshim
+rt-setup
 rteval
 rteval-loads
 rubygem-coderay

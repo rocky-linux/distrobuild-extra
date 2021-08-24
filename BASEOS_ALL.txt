@@ -152,6 +152,7 @@ json-glib
 kabi-dw
 kbd
 kernel
+kernel-rt
 kexec-tools
 keyutils
 kmod
