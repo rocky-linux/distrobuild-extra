@@ -397,7 +397,6 @@ gupnp-dlna
 gupnp-igd
 gutenprint
 gvfs
-hamcrest
 haproxy
 harfbuzz
 hawtjni
