@@ -34,7 +34,10 @@ amanda
 anaconda
 anaconda-user-help
 annobin
+ansible-collection-microsoft-sql
+ansible-collection-redhat-rhel_mgmt
 ansible-freeipa
+ansible-pcp
 ant
 aopalliance
 apache-commons-cli
@@ -129,9 +132,11 @@ compiler-rt
 conmon
 container-exception-logger
 container-selinux
+containers-common
 containernetworking-plugins
 convmv
 copy-jdk-configs
+coreos-installer
 corosync
 crash
 crash-gcore-command
@@ -192,6 +197,7 @@ enscript
 eog
 esc
 espeak-ng
+eth-tools
 evemu
 evince
 evolution
@@ -251,6 +257,19 @@ gcc-toolset-10-make
 gcc-toolset-10-strace
 gcc-toolset-10-systemtap
 gcc-toolset-10-valgrind
+gcc-toolset-11
+gcc-toolset-11-annobin
+gcc-toolset-11-binutils
+gcc-toolset-11-dwz
+gcc-toolset-11-dyninst
+gcc-toolset-11-elfutils
+gcc-toolset-11-gcc
+gcc-toolset-11-gdb
+gcc-toolset-11-ltrace
+gcc-toolset-11-make
+gcc-toolset-11-strace
+gcc-toolset-11-systemtap
+gcc-toolset-11-valgrind
 gcc-toolset-9
 gcc-toolset-9-annobin
 gcc-toolset-9-binutils
@@ -378,6 +397,7 @@ gupnp-dlna
 gupnp-igd
 gutenprint
 gvfs
+hamcrest
 haproxy
 harfbuzz
 hawtjni
@@ -609,6 +629,7 @@ jansi-native
 jasper
 java-1.8.0-openjdk
 java-11-openjdk
+java-17-openjdk
 java-atk-wrapper
 javapackages-tools
 javassist
@@ -953,6 +974,7 @@ mod_md
 mod_security
 mod_security_crs
 mod_wsgi
+modulemd-tools
 motif
 mousetweaks
 mozilla-filesystem
@@ -1284,6 +1306,7 @@ perl-threads-shared
 perl-version
 pesign
 pgaudit
+pg_repack
 php
 php-pear
 php-pecl-apcu
@@ -1402,6 +1425,7 @@ python-pid
 python-pillow
 python-pluggy
 python-ply
+python-podman
 python-podman-api
 python-prettytable
 python-productmd
@@ -1413,6 +1437,7 @@ python-pyasn1
 python-pycparser
 python-pycurl
 python-pydbus
+python-pyghmi
 python-pygments
 python-pymongo
 python-pysocks
@@ -1552,6 +1577,7 @@ sbc
 sbd
 sblim-cmpi-base
 sblim-cmpi-devel
+sblim-gather
 sblim-indication_helper
 sblim-sfcCommon
 sblim-sfcb
@@ -1568,6 +1594,7 @@ seahorse
 sendmail
 setroubleshoot
 setroubleshoot-plugins
+sevctl
 sgabios
 si-units
 sil-abyssinica-fonts
@@ -1637,6 +1664,7 @@ tcpdump
 tcsh
 teckit
 telnet
+tesseract
 tex-fonts-hebrew
 texlive
 tftp
@@ -1663,6 +1691,7 @@ ttmkfdir
 twolame
 ucs-miscfixed-fonts
 ucx
+udftools
 udica
 udisks2
 unbound
@@ -1716,6 +1745,7 @@ wqy-microhei-fonts
 wqy-unibit-fonts
 wsmancli
 xalan-j2
+xapian-core
 xcb-util
 xcb-util-image
 xcb-util-keysyms
@@ -1757,6 +1787,7 @@ xorg-x11-fonts
 xorg-x11-proto-devel
 xorg-x11-server
 xorg-x11-server-utils
+xorg-x11-server-Xwayland
 xorg-x11-utils
 xorg-x11-xauth
 xorg-x11-xbitmaps
