@@ -50,6 +50,8 @@ docbook-style-dsssl
 docbook-utils
 docbook2X
 docbook5-schemas
+dotnet-build-reference-packages
+dotnet5.0-build-reference-packages
 doxygen
 dtc
 dwarves
