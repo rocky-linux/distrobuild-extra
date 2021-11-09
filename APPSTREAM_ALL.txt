@@ -132,8 +132,8 @@ compiler-rt
 conmon
 container-exception-logger
 container-selinux
-containers-common
 containernetworking-plugins
+containers-common
 convmv
 copy-jdk-configs
 coreos-installer
@@ -175,6 +175,7 @@ dotnet
 dotnet3.0
 dotnet3.1
 dotnet5.0
+dotnet6.0
 dovecot
 dpdk
 driverctl
@@ -641,6 +642,7 @@ jboss-logging
 jboss-logging-tools
 jdeparser
 jetty
+jigawatts
 jline
 jmc
 jmc-core
@@ -1061,6 +1063,7 @@ openblas
 openblas-srpm-macros
 openchange
 opencl-filesystem
+opencsd
 opencv
 opendnssec
 openjpeg2
@@ -1069,6 +1072,7 @@ openoffice-lv
 openoffice.org-dict-cs_CZ
 openscap
 openslp
+openssl-ibmca
 opentest4j
 openwsman
 opus
@@ -1097,6 +1101,7 @@ parfait
 patchutils
 pavucontrol
 pcaudiolib
+pcm
 pcp
 pentaho-libxml
 pentaho-reporting-flow-engine
@@ -1304,8 +1309,8 @@ perl-threads
 perl-threads-shared
 perl-version
 pesign
-pgaudit
 pg_repack
+pgaudit
 php
 php-pear
 php-pecl-apcu
@@ -1484,6 +1489,7 @@ pyusb
 pyxdg
 qatengine
 qatlib
+qclib
 qemu-kvm
 qgnomeplatform
 qpdf
@@ -1785,8 +1791,8 @@ xorg-x11-font-utils
 xorg-x11-fonts
 xorg-x11-proto-devel
 xorg-x11-server
-xorg-x11-server-utils
 xorg-x11-server-Xwayland
+xorg-x11-server-utils
 xorg-x11-utils
 xorg-x11-xauth
 xorg-x11-xbitmaps
