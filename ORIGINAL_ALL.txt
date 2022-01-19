@@ -1,3 +1,4 @@
+amazon-efs-utils
 buildsys-macros-el8
 perl-Spiffy
 perl-Test-Base
@@ -7,3 +8,4 @@ rocky-indexhtml
 rocky-logos
 rocky-obsolete-packages
 rocky-release
+rpaste

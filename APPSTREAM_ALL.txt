@@ -1128,6 +1128,7 @@ perl-Class-ISA
 perl-Class-Inspector
 perl-Compress-Bzip2
 perl-Compress-Raw-Bzip2
+perl-Compress-Raw-Lzma
 perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
@@ -1185,6 +1186,7 @@ perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Tiny
 perl-IO-Compress
+perl-IO-Compress-Lzma
 perl-IO-HTML
 perl-IO-Multiplex
 perl-IO-Socket-INET6
