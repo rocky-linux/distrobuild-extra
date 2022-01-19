@@ -73,6 +73,7 @@ batik
 bcc
 bea-stax
 beignet
+bind9.16
 bind-dyndb-ldap
 bison
 bitmap-fonts
