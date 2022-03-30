@@ -162,6 +162,7 @@ devhelp
 dialog
 diffstat
 directory-maven-plugin
+disruptor
 dleyna-connector-dbus
 dleyna-core
 dleyna-renderer
