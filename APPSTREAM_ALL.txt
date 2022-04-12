@@ -36,6 +36,7 @@ anaconda-user-help
 annobin
 ansible-collection-microsoft-sql
 ansible-collection-redhat-rhel_mgmt
+ansible-core
 ansible-freeipa
 ansible-pcp
 ant
@@ -1457,6 +1458,7 @@ python-reportlab
 python-requests
 python-requests-file
 python-requests-ftp
+python-resolvelib
 python-rpm-generators
 python-rpm-macros
 python-rpmfluff
