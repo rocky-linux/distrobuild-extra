@@ -643,6 +643,7 @@ jboss-interceptors-1.2-api
 jboss-jaxrs-2.0-api
 jboss-logging
 jboss-logging-tools
+jctools
 jdeparser
 jetty
 jigawatts
@@ -906,6 +907,7 @@ lldpd
 llvm
 llvm-toolset
 lmdb
+log4j
 log4j12
 lohit-assamese-fonts
 lohit-bengali-fonts
