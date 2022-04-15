@@ -410,6 +410,7 @@ hexedit
 hicolor-icon-theme
 highlight
 hivex
+hostapd
 hplip
 hspell
 http-parser
@@ -1497,6 +1498,7 @@ pyusb
 pyxdg
 qatengine
 qatlib
+qatzip
 qclib
 qemu-kvm
 qgnomeplatform
@@ -1556,6 +1558,7 @@ rhncfg
 rhnlib
 rhnpush
 rhnsd
+rig
 rhythmbox
 rpm-mpi-hooks
 rpm-ostree
@@ -1609,6 +1612,7 @@ setroubleshoot
 setroubleshoot-plugins
 sevctl
 sgabios
+sshpass
 si-units
 sil-abyssinica-fonts
 sil-nuosu-fonts
@@ -1750,6 +1754,7 @@ wayland
 wayland-protocols
 webkit2gtk3
 webrtc-audio-processing
+weldr-client
 wget
 whois
 wireshark
