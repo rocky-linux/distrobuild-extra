@@ -36,6 +36,7 @@ anaconda-user-help
 annobin
 ansible-collection-microsoft-sql
 ansible-collection-redhat-rhel_mgmt
+ansible-core
 ansible-freeipa
 ansible-pcp
 ant
@@ -73,6 +74,7 @@ batik
 bcc
 bea-stax
 beignet
+bind9.16
 bind-dyndb-ldap
 bison
 bitmap-fonts
@@ -161,6 +163,7 @@ devhelp
 dialog
 diffstat
 directory-maven-plugin
+disruptor
 dleyna-connector-dbus
 dleyna-core
 dleyna-renderer
@@ -407,6 +410,7 @@ hexedit
 hicolor-icon-theme
 highlight
 hivex
+hostapd
 hplip
 hspell
 http-parser
@@ -640,6 +644,7 @@ jboss-interceptors-1.2-api
 jboss-jaxrs-2.0-api
 jboss-logging
 jboss-logging-tools
+jctools
 jdeparser
 jetty
 jigawatts
@@ -903,6 +908,7 @@ lldpd
 llvm
 llvm-toolset
 lmdb
+log4j
 log4j12
 lohit-assamese-fonts
 lohit-bengali-fonts
@@ -1128,6 +1134,7 @@ perl-Class-ISA
 perl-Class-Inspector
 perl-Compress-Bzip2
 perl-Compress-Raw-Bzip2
+perl-Compress-Raw-Lzma
 perl-Compress-Raw-Zlib
 perl-Config-Perl-V
 perl-Convert-ASN1
@@ -1185,6 +1192,7 @@ perl-HTTP-Message
 perl-HTTP-Negotiate
 perl-HTTP-Tiny
 perl-IO-Compress
+perl-IO-Compress-Lzma
 perl-IO-HTML
 perl-IO-Multiplex
 perl-IO-Socket-INET6
@@ -1453,6 +1461,7 @@ python-reportlab
 python-requests
 python-requests-file
 python-requests-ftp
+python-resolvelib
 python-rpm-generators
 python-rpm-macros
 python-rpmfluff
@@ -1489,6 +1498,7 @@ pyusb
 pyxdg
 qatengine
 qatlib
+qatzip
 qclib
 qemu-kvm
 qgnomeplatform
@@ -1548,6 +1558,7 @@ rhncfg
 rhnlib
 rhnpush
 rhnsd
+rig
 rhythmbox
 rpm-mpi-hooks
 rpm-ostree
@@ -1601,6 +1612,7 @@ setroubleshoot
 setroubleshoot-plugins
 sevctl
 sgabios
+sshpass
 si-units
 sil-abyssinica-fonts
 sil-nuosu-fonts
@@ -1742,6 +1754,7 @@ wayland
 wayland-protocols
 webkit2gtk3
 webrtc-audio-processing
+weldr-client
 wget
 whois
 wireshark

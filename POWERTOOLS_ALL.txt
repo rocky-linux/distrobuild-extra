@@ -492,6 +492,7 @@ sonatype-plugins-parent
 sparsehash
 spec-version-maven-plugin
 spice-parent
+stress-ng
 testng
 texi2html
 tinyxml2

@@ -242,6 +242,7 @@ libpsm2
 libpwquality
 libqb
 libqmi
+libqrtr-glib
 librabbitmq
 librepo
 libreport
@@ -266,6 +267,7 @@ libtevent
 libtirpc
 libtool
 libunistring
+liburing
 libusb
 libusbx
 libuser
