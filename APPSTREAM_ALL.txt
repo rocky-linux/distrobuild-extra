@@ -1831,3 +1831,4 @@ ypserv
 zaf
 zenity
 zziplib
+virt-v2v
