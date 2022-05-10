@@ -74,8 +74,8 @@ batik
 bcc
 bea-stax
 beignet
-bind9.16
 bind-dyndb-ldap
+bind9.16
 bison
 bitmap-fonts
 bogofilter
@@ -221,6 +221,7 @@ fence-agents
 fence-virt
 fetchmail
 fftw
+fido-device-onboard
 file-roller
 fio
 firefox
@@ -776,6 +777,7 @@ libguestfs-winsupport
 libgweather
 libgxps
 libhangul
+libica
 libidn
 libiec61883
 libieee1284
@@ -864,6 +866,7 @@ libthai
 libtheora
 libtiff
 libtimezonemap
+libtpms
 libucil
 libunicap
 liburing
@@ -897,6 +900,7 @@ libxklavier
 libxshmfence
 libyami
 libyang
+libzdnn
 libzip
 libzmf
 linuxconsoletools
@@ -1324,6 +1328,7 @@ php-pear
 php-pecl-apcu
 php-pecl-rrd
 php-pecl-xdebug
+php-pecl-xdebug3
 php-pecl-zip
 pidgin
 pidgin-sipe
@@ -1558,8 +1563,8 @@ rhncfg
 rhnlib
 rhnpush
 rhnsd
-rig
 rhythmbox
+rig
 rpm-mpi-hooks
 rpm-ostree
 rpmdevtools
@@ -1612,7 +1617,6 @@ setroubleshoot
 setroubleshoot-plugins
 sevctl
 sgabios
-sshpass
 si-units
 sil-abyssinica-fonts
 sil-nuosu-fonts
@@ -1656,6 +1660,7 @@ spirv-tools
 splix
 squid
 sscg
+sshpass
 stalld
 startup-notification
 stax-ex
@@ -1669,6 +1674,7 @@ supermin
 sushi
 swig
 switcheroo-control
+swtpm
 sysstat
 system-config-printer
 systemtap
