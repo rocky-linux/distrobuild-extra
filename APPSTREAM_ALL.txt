@@ -866,6 +866,7 @@ libthai
 libtheora
 libtiff
 libtimezonemap
+libtpms
 libucil
 libunicap
 liburing
@@ -1327,6 +1328,7 @@ php-pear
 php-pecl-apcu
 php-pecl-rrd
 php-pecl-xdebug
+php-pecl-xdebug3
 php-pecl-zip
 pidgin
 pidgin-sipe
@@ -1672,6 +1674,7 @@ supermin
 sushi
 swig
 switcheroo-control
+swtpm
 sysstat
 system-config-printer
 systemtap
