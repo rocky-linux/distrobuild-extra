@@ -74,8 +74,8 @@ batik
 bcc
 bea-stax
 beignet
-bind9.16
 bind-dyndb-ldap
+bind9.16
 bison
 bitmap-fonts
 bogofilter
@@ -221,6 +221,7 @@ fence-agents
 fence-virt
 fetchmail
 fftw
+fido-device-onboard
 file-roller
 fio
 firefox
@@ -776,6 +777,7 @@ libguestfs-winsupport
 libgweather
 libgxps
 libhangul
+libica
 libidn
 libiec61883
 libieee1284
@@ -897,6 +899,7 @@ libxklavier
 libxshmfence
 libyami
 libyang
+libzdnn
 libzip
 libzmf
 linuxconsoletools
@@ -1558,8 +1561,8 @@ rhncfg
 rhnlib
 rhnpush
 rhnsd
-rig
 rhythmbox
+rig
 rpm-mpi-hooks
 rpm-ostree
 rpmdevtools
@@ -1612,7 +1615,6 @@ setroubleshoot
 setroubleshoot-plugins
 sevctl
 sgabios
-sshpass
 si-units
 sil-abyssinica-fonts
 sil-nuosu-fonts
@@ -1656,6 +1658,7 @@ spirv-tools
 splix
 squid
 sscg
+sshpass
 stalld
 startup-notification
 stax-ex
