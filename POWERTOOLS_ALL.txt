@@ -512,6 +512,7 @@ xerces-j2
 xhtml1-dtds
 xml-commons-apis
 xml-commons-resolver
+xmlstarlet
 xmltoman
 xmlunit
 xmvn
