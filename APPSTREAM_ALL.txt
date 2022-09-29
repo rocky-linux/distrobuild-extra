@@ -629,6 +629,7 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-module-jaxb-annotations
 jaf
+jakarta-annotations
 jakarta-commons-httpclient
 jansi
 jansi-native
