@@ -276,6 +276,12 @@ gcc-toolset-11-make
 gcc-toolset-11-strace
 gcc-toolset-11-systemtap
 gcc-toolset-11-valgrind
+gcc-toolset-12
+gcc-toolset-12-annobin
+gcc-toolset-12-binutils
+gcc-toolset-12-dwz
+gcc-toolset-12-gcc
+gcc-toolset-12-gdb
 gcc-toolset-9
 gcc-toolset-9-annobin
 gcc-toolset-9-binutils
