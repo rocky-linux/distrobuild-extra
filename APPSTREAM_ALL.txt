@@ -179,6 +179,7 @@ dotnet3.0
 dotnet3.1
 dotnet5.0
 dotnet6.0
+dotnet7.0
 dovecot
 dpdk
 driverctl
@@ -275,6 +276,12 @@ gcc-toolset-11-make
 gcc-toolset-11-strace
 gcc-toolset-11-systemtap
 gcc-toolset-11-valgrind
+gcc-toolset-12
+gcc-toolset-12-annobin
+gcc-toolset-12-binutils
+gcc-toolset-12-dwz
+gcc-toolset-12-gcc
+gcc-toolset-12-gdb
 gcc-toolset-9
 gcc-toolset-9-annobin
 gcc-toolset-9-binutils
@@ -628,6 +635,7 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-module-jaxb-annotations
 jaf
+jakarta-annotations
 jakarta-commons-httpclient
 jansi
 jansi-native
