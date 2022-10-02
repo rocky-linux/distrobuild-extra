@@ -1829,7 +1829,9 @@ xrestop
 xsane
 xsom
 xterm
+xxhash
 yajl
+yara
 yelp
 yelp-tools
 yelp-xsl
