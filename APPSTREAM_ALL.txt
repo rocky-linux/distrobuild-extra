@@ -1552,6 +1552,7 @@ rasqal
 rear
 recode
 redfish-finder
+redhat-cloud-client-configuration
 redhat-lsb
 redhat-menus
 redhat-rpm-config
