@@ -53,6 +53,7 @@ apiguardian
 appstream-data
 apr
 apr-util
+aardvark-dns
 asciidoc
 aspell
 aspell-en
@@ -1045,6 +1046,7 @@ navilu-fonts
 nbdkit
 ncompress
 neon
+netavark
 netcf
 netpbm
 network-manager-applet
