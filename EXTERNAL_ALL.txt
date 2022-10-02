@@ -23,6 +23,8 @@ classloader-leak-test-framework
 cloog
 clufter
 comic-neue-fonts
+compat-sap-c++-10
+compat-sap-c++-12
 console-setup
 corosync-qdevice
 datefudge
@@ -452,6 +454,8 @@ rdate
 relaxngcc
 replacer
 resource-agents
+resource-agents-sap
+rhel-system-roles-sap
 rshim
 rt-setup
 rteval

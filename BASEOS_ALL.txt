@@ -299,6 +299,7 @@ m4
 mailcap
 mailx
 make
+make-latest
 man-db
 man-pages
 mcelog
