@@ -876,6 +876,8 @@ libtheora
 libtiff
 libtimezonemap
 libtpms
+libtraceevent
+libtracefs
 libucil
 libunicap
 liburing
@@ -899,6 +901,7 @@ libwebp
 libwmf
 libwnck3
 libwpd
+libwpe
 libwpg
 libwps
 libxcam
@@ -1225,6 +1228,7 @@ perl-Locale-Codes
 perl-Locale-Maketext
 perl-MIME-Base64
 perl-MRO-Compat
+perl-Mail-AuthenticationResults
 perl-Mail-DKIM
 perl-Mail-SPF
 perl-Mail-Sender
@@ -1718,6 +1722,7 @@ toolbox
 torque
 totem
 totem-pl-parser
+tpm2-pkcs11
 tracer
 tracker
 tracker-miners
@@ -1776,6 +1781,7 @@ wget
 whois
 wireshark
 woff2
+wpebackend-fdo
 wqy-microhei-fonts
 wqy-unibit-fonts
 wsmancli
