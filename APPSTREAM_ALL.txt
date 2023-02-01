@@ -15,6 +15,7 @@ SLOF
 WALinuxAgent
 Xaw3d
 a52dec
+aardvark-dns
 abattis-cantarell-fonts
 abrt
 abrt-java-connector
@@ -53,7 +54,6 @@ apiguardian
 appstream-data
 apr
 apr-util
-aardvark-dns
 asciidoc
 aspell
 aspell-en
@@ -149,6 +149,7 @@ createrepo_c
 criu
 crun
 cscope
+ctags
 ctags
 culmus-fonts
 cups-filters
@@ -614,6 +615,7 @@ iio-sensor-proxy
 ilmbase
 initial-setup
 inkscape
+inkscape1
 insights-client
 intltool
 ipa
@@ -690,6 +692,7 @@ lato-fonts
 lcms2
 ldapjdk
 ldns
+leapp
 lftp
 libICE
 libSM
@@ -1002,6 +1005,7 @@ motif
 mousetweaks
 mozilla-filesystem
 mozvoikko
+mpdecimal
 mpg123
 mpich
 mpitests
@@ -1124,6 +1128,7 @@ parfait
 patchutils
 pavucontrol
 pcaudiolib
+pcm
 pcm
 pcp
 pentaho-libxml
@@ -1506,6 +1511,10 @@ python2-pycairo
 python2-rpm-macros
 python2-setuptools
 python2-six
+python3.11
+python3.11-pip
+python3.11-setuptools
+python3.11-wheel
 python36
 python38
 python39
@@ -1589,6 +1598,7 @@ rshim
 rsyslog
 rt-tests
 rtkit
+rtla
 ruby
 rubygem-abrt
 rubygem-bson
@@ -1690,6 +1700,7 @@ sushi
 swig
 switcheroo-control
 swtpm
+synce4l
 sysstat
 system-config-printer
 systemtap
@@ -1760,6 +1771,7 @@ vino
 virt-manager
 virt-p2v
 virt-top
+virt-v2v
 virt-viewer
 virt-who
 virtio-win
@@ -1850,4 +1862,3 @@ ypserv
 zaf
 zenity
 zziplib
-virt-v2v
