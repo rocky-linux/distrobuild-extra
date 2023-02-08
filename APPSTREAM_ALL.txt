@@ -1512,7 +1512,9 @@ python2-rpm-macros
 python2-setuptools
 python2-six
 python3.11
+python3.11-Cython
 python3.11-attr
+python3.11-idna
 python3.11-iniconfig
 python3.11-packaging
 python3.11-pip
