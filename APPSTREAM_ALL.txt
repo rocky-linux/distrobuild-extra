@@ -638,6 +638,7 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-module-jaxb-annotations
 jaf
+jakarta-activation2
 jakarta-annotations
 jakarta-commons-httpclient
 jansi
@@ -649,6 +650,12 @@ java-17-openjdk
 java-atk-wrapper
 javapackages-tools
 javassist
+jaxb
+jaxb-api4
+jaxb-dtd-parser
+jaxb-fi
+jaxb-istack-commons
+jaxb-stax-ex
 jbig2dec
 jbigkit
 jboss-annotations-1.2-api

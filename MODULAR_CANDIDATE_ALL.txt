@@ -24,6 +24,8 @@ javapackages-runtime
 javapackages-runtime-devel
 javapackages-tools
 javapackages-tools-devel
+jaxb
+jaxb-devel
 jmc
 jmc-devel
 libselinux-python
