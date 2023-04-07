@@ -15,6 +15,7 @@ SLOF
 WALinuxAgent
 Xaw3d
 a52dec
+aardvark-dns
 abattis-cantarell-fonts
 abrt
 abrt-java-connector
@@ -53,7 +54,6 @@ apiguardian
 appstream-data
 apr
 apr-util
-aardvark-dns
 asciidoc
 aspell
 aspell-en
@@ -149,6 +149,7 @@ createrepo_c
 criu
 crun
 cscope
+ctags
 ctags
 culmus-fonts
 cups-filters
@@ -614,6 +615,7 @@ iio-sensor-proxy
 ilmbase
 initial-setup
 inkscape
+inkscape1
 insights-client
 intltool
 ipa
@@ -636,6 +638,7 @@ jackson-databind
 jackson-jaxrs-providers
 jackson-module-jaxb-annotations
 jaf
+jakarta-activation2
 jakarta-annotations
 jakarta-commons-httpclient
 jansi
@@ -647,6 +650,12 @@ java-17-openjdk
 java-atk-wrapper
 javapackages-tools
 javassist
+jaxb
+jaxb-api4
+jaxb-dtd-parser
+jaxb-fi
+jaxb-istack-commons
+jaxb-stax-ex
 jbig2dec
 jbigkit
 jboss-annotations-1.2-api
@@ -690,6 +699,7 @@ lato-fonts
 lcms2
 ldapjdk
 ldns
+leapp
 lftp
 libICE
 libSM
@@ -876,6 +886,8 @@ libtheora
 libtiff
 libtimezonemap
 libtpms
+libtraceevent
+libtracefs
 libucil
 libunicap
 liburing
@@ -899,6 +911,7 @@ libwebp
 libwmf
 libwnck3
 libwpd
+libwpe
 libwpg
 libwps
 libxcam
@@ -999,6 +1012,7 @@ motif
 mousetweaks
 mozilla-filesystem
 mozvoikko
+mpdecimal
 mpg123
 mpich
 mpitests
@@ -1122,6 +1136,7 @@ patchutils
 pavucontrol
 pcaudiolib
 pcm
+pcm
 pcp
 pentaho-libxml
 pentaho-reporting-flow-engine
@@ -1225,6 +1240,7 @@ perl-Locale-Codes
 perl-Locale-Maketext
 perl-MIME-Base64
 perl-MRO-Compat
+perl-Mail-AuthenticationResults
 perl-Mail-DKIM
 perl-Mail-SPF
 perl-Mail-Sender
@@ -1502,6 +1518,35 @@ python2-pycairo
 python2-rpm-macros
 python2-setuptools
 python2-six
+python3.11
+python3.11-Cython
+python3.11-PyMySQL
+python3.11-attr
+python3.11-cffi
+python3.11-charset-normalizer
+python3.11-cryptography
+python3.11-idna
+python3.11-iniconfig
+python3.11-lxml
+python3.11-numpy
+python3.11-packaging
+python3.11-pip
+python3.11-pluggy
+python3.11-ply
+python3.11-psycopg2
+python3.11-pybind11
+python3.11-pycparser
+python3.11-pyparsing
+python3.11-pysocks
+python3.11-pytest
+python3.11-pyyaml
+python3.11-requests
+python3.11-semantic_version
+python3.11-setuptools
+python3.11-setuptools-rust
+python3.11-six
+python3.11-urllib3
+python3.11-wheel
 python36
 python38
 python39
@@ -1585,6 +1630,7 @@ rshim
 rsyslog
 rt-tests
 rtkit
+rtla
 ruby
 rubygem-abrt
 rubygem-bson
@@ -1686,6 +1732,7 @@ sushi
 swig
 switcheroo-control
 swtpm
+synce4l
 sysstat
 system-config-printer
 systemtap
@@ -1718,6 +1765,7 @@ toolbox
 torque
 totem
 totem-pl-parser
+tpm2-pkcs11
 tracer
 tracker
 tracker-miners
@@ -1755,6 +1803,7 @@ vino
 virt-manager
 virt-p2v
 virt-top
+virt-v2v
 virt-viewer
 virt-who
 virtio-win
@@ -1776,6 +1825,7 @@ wget
 whois
 wireshark
 woff2
+wpebackend-fdo
 wqy-microhei-fonts
 wqy-unibit-fonts
 wsmancli
@@ -1844,4 +1894,3 @@ ypserv
 zaf
 zenity
 zziplib
-virt-v2v
