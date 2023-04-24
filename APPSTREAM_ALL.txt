@@ -284,6 +284,7 @@ gcc-toolset-12-binutils
 gcc-toolset-12-dwz
 gcc-toolset-12-gcc
 gcc-toolset-12-gdb
+gcc-toolset-13
 gcc-toolset-9
 gcc-toolset-9-annobin
 gcc-toolset-9-binutils
@@ -1506,6 +1507,7 @@ python-suds
 python-sushy
 python-systemd
 python-toml
+python-tomli
 python-urllib3
 python-virtualenv
 python-webencodings
@@ -1778,6 +1780,7 @@ udica
 udisks2
 unbound
 unicode-ucd
+unifdef
 unit-api
 univocity-parsers
 unixODBC
