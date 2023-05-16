@@ -1530,6 +1530,7 @@ python3.11-cryptography
 python3.11-idna
 python3.11-iniconfig
 python3.11-lxml
+python3.11-mod_wsgi
 python3.11-numpy
 python3.11-packaging
 python3.11-pip
@@ -1543,6 +1544,7 @@ python3.11-pysocks
 python3.11-pytest
 python3.11-pyyaml
 python3.11-requests
+python3.11-scipy
 python3.11-semantic_version
 python3.11-setuptools
 python3.11-setuptools-rust
