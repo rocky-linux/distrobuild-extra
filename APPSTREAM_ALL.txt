@@ -1523,7 +1523,7 @@ python2-six
 python3.11
 python3.11-Cython
 python3.11-PyMySQL
-python3.11-attr
+python3.11-attrs
 python3.11-cffi
 python3.11-charset-normalizer
 python3.11-cryptography
