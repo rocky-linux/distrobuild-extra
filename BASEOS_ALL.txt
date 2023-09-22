@@ -490,6 +490,7 @@ star
 strace
 stunnel
 subscription-manager
+subscription-manager-rhsm-certificates
 sudo
 symlinks
 sysfsutils
