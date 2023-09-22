@@ -284,6 +284,7 @@ gcc-toolset-12-binutils
 gcc-toolset-12-dwz
 gcc-toolset-12-gcc
 gcc-toolset-12-gdb
+gcc-toolset-13
 gcc-toolset-9
 gcc-toolset-9-annobin
 gcc-toolset-9-binutils
@@ -1506,6 +1507,7 @@ python-suds
 python-sushy
 python-systemd
 python-toml
+python-tomli
 python-urllib3
 python-virtualenv
 python-webencodings
@@ -1521,13 +1523,14 @@ python2-six
 python3.11
 python3.11-Cython
 python3.11-PyMySQL
-python3.11-attr
+python3.11-attrs
 python3.11-cffi
 python3.11-charset-normalizer
 python3.11-cryptography
 python3.11-idna
 python3.11-iniconfig
 python3.11-lxml
+python3.11-mod_wsgi
 python3.11-numpy
 python3.11-packaging
 python3.11-pip
@@ -1541,6 +1544,7 @@ python3.11-pysocks
 python3.11-pytest
 python3.11-pyyaml
 python3.11-requests
+python3.11-scipy
 python3.11-semantic_version
 python3.11-setuptools
 python3.11-setuptools-rust
@@ -1760,6 +1764,7 @@ tk
 tlog
 tog-pegasus
 tokyocabinet
+tomcat
 tomcatjss
 toolbox
 torque
@@ -1778,6 +1783,7 @@ udica
 udisks2
 unbound
 unicode-ucd
+unifdef
 unit-api
 univocity-parsers
 unixODBC
