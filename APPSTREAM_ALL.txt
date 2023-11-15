@@ -646,8 +646,13 @@ jansi
 jansi-native
 jasper
 java-1.8.0-openjdk
+java-1.8.0-openjdk-portable
 java-11-openjdk
+java-11-openjdk-portable
 java-17-openjdk
+java-17-openjdk-portable
+java-21-openjdk
+java-21-openjdk-portable
 java-atk-wrapper
 javapackages-tools
 javassist
