@@ -480,8 +480,6 @@ scons
 scotch
 sgabios
 sharutils
-shim-unsigned-aarch64
-shim-unsigned-x64
 sisu
 sisu-mojos
 slf4j
