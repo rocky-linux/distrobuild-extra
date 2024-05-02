@@ -477,7 +477,6 @@ sgml-common
 sgpio
 shadow-utils
 shared-mime-info
-shim
 slang
 smartmontools
 smc-tools

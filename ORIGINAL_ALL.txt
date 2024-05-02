@@ -9,3 +9,6 @@ rocky-logos
 rocky-obsolete-packages
 rocky-release
 rpaste
+shim
+shim-unsigned-x64
+shim-unsigned-aarch64
